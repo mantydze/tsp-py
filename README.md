@@ -41,16 +41,16 @@ python3 tsp_ga.py data/dj38.tsp output_directory_for_images/
 
 #### Evolution
 
-<img src="images/dj38.gif" alt="Evolution" width="400"/>
+<img src="images/dj38.gif" alt="Evolution" width="800"/>
 
 #### Swap 2 cities
 
-<img src="images/swap.png" alt="Evolution" width="400"/>
+<img src="images/swap.png" alt="Evolution" width="800"/>
 
 #### Shuffle segment of the route
 
-<img src="images/shuffle.png" alt="Shuffle segment" width="400"/>
+<img src="images/shuffle.png" alt="Shuffle segment" width="800"/>
 
 #### Shift segment of the route
 
-<img src="images/shift.png" alt="Shift segment" width="400"/>
+<img src="images/shift.png" alt="Shift segment" width="800"/>
